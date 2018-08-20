@@ -1,4 +1,7 @@
 from ctypes import *
+'''
+kuku
+'''
 msvcrt =cdll.msvcrt
 message ='ytkkt word!\n'
 msvcrt.printf("hello"."kuku")
