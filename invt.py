@@ -16,6 +16,7 @@ i=0
  kuku
  new
  two
+ tree
 
 '''
 #logging.basicConfig()
