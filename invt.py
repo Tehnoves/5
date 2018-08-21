@@ -15,6 +15,7 @@ i=0
  стыковки IBM PC с INVT для экструдера 7
  kuku
  new
+ two
 
 '''
 #logging.basicConfig()
