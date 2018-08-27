@@ -2,6 +2,7 @@ from ctypes import *
 '''
 kuku2
 kuku3
+kuku4
 '''
 msvcrt =cdll.msvcrt
 message ='ytkkt word!\n'
